@@ -1,4 +1,7 @@
 # PSEUDOCODIGO DEL EJERCICIO 3
+
+Se requiere determinar el sueldo semanal de un trabajador con base en las horas que trabaja y el pago por hora que recibe.
+
 1. Inicio
 2. Ingresar el primer número
 3. Ingresar el segundo número
